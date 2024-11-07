@@ -1,0 +1,24 @@
+{
+  "originHash" : "4dce20818898386ddc59213dc5361ebd200f516d9e11ecce5ab5220a12aebe2a",
+  "pins" : [
+    {
+      "identity" : "dtpersistence",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kakaohealthcare-DT/DTPersistence.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1ab310dc3ff1e72b7cab24c9e483a81027c0573d"
+      }
+    },
+    {
+      "identity" : "kakaohealthcarefoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kakaohealthcare-DT/KakaoHealthcareFoundation.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2399f07f455446a4557c901f3afde2c7890e4aa6"
+      }
+    }
+  ],
+  "version" : 3
+}

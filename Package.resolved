@@ -1,5 +1,4 @@
 {
-  "originHash" : "4dce20818898386ddc59213dc5361ebd200f516d9e11ecce5ab5220a12aebe2a",
   "pins" : [
     {
       "identity" : "dtpersistence",
@@ -18,7 +17,25 @@
         "branch" : "main",
         "revision" : "2399f07f455446a4557c901f3afde2c7890e4aa6"
       }
+    },
+    {
+      "identity" : "kakaohealthcareui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kakaohealthcare-DT/KakaoHealthcareUI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "43dbfdb706ca58efde27fbc50b8f886cea312964"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
     }
   ],
-  "version" : 3
+  "version" : 2
 }

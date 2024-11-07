@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/kakaohealthcare-DT/KakaoHealthcareFoundation.git",
+            url: "https://github.com/kakaohealthcare-DT/KakaoHealthcareUI.git",
             branch: "main"),
         .package(url: "https://github.com/kakaohealthcare-DT/DTPersistence.git", branch: "main"),
     ],
